@@ -1,0 +1,56 @@
+.navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px 0;
+}
+
+.navbar-brand img {
+    height: 80px;
+    width: 120px;
+    margin-right: 20px;
+}
+
+.navbar-brand a {
+    font-size: 24px;
+    color: #333;
+    text-decoration: none;
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #007bff;
+}
+
+.navbar-toggler-icon {
+    background-color: #333;
+}
+
+.form-control {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.input-group-text a ion-icon {
+    color: #333;
+}
+
+.button1 {
+    font-size: 18px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+}
+
+.button1:hover {
+    background-color: #0056b3;
+}
